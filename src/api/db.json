@@ -1,0 +1,9 @@
+{
+    "employees":[
+        {"id":101,"name":"Ram0","post":"React0 devloper"},
+        {"id":102,"name":"Ram1","post":"React1 devloper"},
+        {"id":103,"name":"Ram2","post":"React2 devloper"},
+        {"id":104,"name":"Ram3","post":"React3 devloper"},
+        {"id":105,"name":"Ram4","post":"React4 devloper"}
+    ]
+}
